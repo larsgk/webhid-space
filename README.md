@@ -1,6 +1,6 @@
 ---
 title: Reviving legacy hardware with Web HID
-published: false
+published: true
 description: Web HID makes it easy to web enable (legacy) devices.
 tags:
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nyg9s8q7p3n6dbxm277c.jpg
