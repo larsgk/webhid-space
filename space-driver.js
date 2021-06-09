@@ -72,7 +72,6 @@ export const SpaceDriver = new class extends EventTarget {
             this.handleButtons(new Uint16Array(e.data.buffer)[0]);
             break;
         }
-        // console.log(cells);
     }
 
     handleTranslation(val) {
